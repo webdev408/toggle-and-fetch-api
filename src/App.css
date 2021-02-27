@@ -15,7 +15,8 @@ img {
 li {
   list-style: none;
 }
-p > .max-auto {
-  margin-left: 25rem !important;
+p{
+  text-align: center !important;
+  font-weight: bold;
 }
 
